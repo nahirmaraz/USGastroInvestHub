@@ -20,18 +20,14 @@ Este alcance no incluirá decisiones financieras específicas como la asignació
 ## Objetivos
 El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la inversión del nuevo restaurante étnico de InnovaGastron Investments en Estados Unidos. Para lograrlo se realizaran las siguientes tareas, en base al alcance propuesto:
 1. Analizar la Presencia en Redes Sociales:
-
-        * Realizar webscraping en Twitter para identificar la presencia y percepción pública de restaurantes de comida étnica en la zona sur de Estados Unidos.
-
-         * Cuantificar y analizar la actividad en redes sociales, centrándose en la popularidad y las tendencias locales para comprender la recepción del público.
+* Realizar webscraping en Twitter para identificar la presencia y percepción pública de restaurantes de comida étnica en la zona sur de Estados Unidos.
+* Cuantificar y analizar la actividad en redes sociales, centrándose en la popularidad y las tendencias locales para comprender la recepción del público.
 2. Evaluar Accesibilidad y Afluencia de Clientes:
-
-        * Utilizar un dataset de estaciones de servicio para crear un mapa que visualice la ubicación de las estaciones en la zona sur de Estados Unidos.
-        * Relacionar la concentración de estaciones de servicio con la accesibilidad, identificando áreas con mayor afluencia de clientes potenciales para restaurantes de comida étnica.
+* Utilizar un dataset de estaciones de servicio para crear un mapa que visualice la ubicación de las estaciones en la zona sur de Estados Unidos.
+* Relacionar la concentración de estaciones de servicio con la accesibilidad, identificando áreas con mayor afluencia de clientes potenciales para restaurantes de comida étnica.
 3. Investigar Competencia y Restaurantes Establecidos:
-
-        * Analizar datos de Google Maps y Yelp para obtener información detallada sobre la competencia y los restaurantes ya establecidos en la zona sur de Estados Unidos.
-        * Aplicar análisis de sentimiento a reseñas y puntuaciones recopiladas, proporcionando una comprensión más profunda de la percepción del cliente y las fortalezas/deficiencias de los establecimientos existentes.
+ * Analizar datos de Google Maps y Yelp para obtener información detallada sobre la competencia y los restaurantes ya establecidos en la zona sur de Estados Unidos.
+ * Aplicar análisis de sentimiento a reseñas y puntuaciones recopiladas, proporcionando una comprensión más profunda de la percepción del cliente y las fortalezas/deficiencias de los establecimientos existentes.
 ### Entregables
 `Dashboard Interactivo:`
         Crear un dashboard interactivo en PowerBI que presente de manera visual y comprensible los resultados clave del análisis. Este dashboard incluirá gráficos, mapas, métricas relevantes y KPIs específicos, proporcionando a InnovaGastron Investments una visión integral de las oportunidades de inversión en restaurantes de comida étnica en la zona sur de Estados Unidos.
