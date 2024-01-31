@@ -2,27 +2,53 @@
 Somos una firma consultora que integra a ingenieros, científicos y analistas de datos para ofrecer soluciones personalizadas a nuestros clientes. Con un equipo multidisciplinario altamente calificado, combinamos conocimientos técnicos, creatividad y análisis profundo para brindar soluciones eficientes, permitiéndonos abordar una amplia gama de proyectos con excelencia. En NexusAnalytics, transformamos datos en información valiosa para impulsar el éxito empresarial.
 ## Introducción
 La expansión de franquicias de restaurantes de comida étnica en ciudades del Sunbelt no solo representa un fenómeno de crecimiento económico, sino que también ofrece oportunidades significativas para inversores con diversos perfiles. Especialmente en lugares como Florida, la diversidad cultural, el atractivo turístico, la creciente población y la presencia de una comunidad latina vibrante convergen para potenciar el éxito de estas franquicias en un mercado en constante evolución.
+
 InnovaGastron Investments, una empresa inversora con raíces en América Latina, reconoce el potencial estratégico de esta expansión y se propone establecer su presencia en los Estados Unidos. Con una especialización en el sector de restaurantes en su país de origen, no solo busca oportunidades de inversión en la industria gastronómica estadounidense, sino que también tiene el objetivo de facilitar visas y traslados familiares para su equipo directivo.
+
 Encomendándonos la tarea de analizar este emocionante escenario, InnovaGastron Investments busca nuestra experiencia para recopilar información clave sobre el tipo de restaurante más propicio para la inversión y determinar en qué estado de los Estados Unidos se podrían maximizar los beneficios. Nuestra misión es proporcionar análisis estratégicos que permitan al inversor tomar decisiones informadas y exitosas en este proceso de expansión internacional.
 ## Alcance
-El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando el/los año/s mas reciente/s (poner año o rango). Y se basa en el análisis de cinco aspectos clave: 
-1. Distribución Demográfica y Socioeconómica:
-        Analizar la distribución demográfica y socioeconómica, incluyendo ingresos promedio, edad promedio y composición demográfica en las áreas potenciales de inversión.
-2. Datos Meteorológicos:
-        Evaluar datos meteorológicos para comprender el clima y los patrones estacionales en cada ubicación candidata.
-3. Redes Sociales:
+El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando el año mas reciente, es decir el 2023. Y se basa en el análisis de tres aspectos clave: 
+
+1. Redes Sociales:
         Analizar la presencia en redes sociales, popularidad y percepción pública a través de plataformas como Instagram y Twitter para entender las tendencias y expectativas locales.
-4. Tráfico y Accesibilidad:
+2. Tráfico y Accesibilidad:
         Evaluar la accesibilidad y afluencia de clientes mediante el análisis de datos de tráfico en cada ubicación potencial.
-5. Competencia y Restaurantes Establecidos:
+3. Competencia y Restaurantes Establecidos:
         Investigar la competencia y restaurantes ya establecidos en las zonas consideradas, examinando reseñas, puntuaciones, tipos de restaurantes y otros factores relevantes.
-Este alcance no incluirá decisiones financieras específicas como la asignación de presupuestos o detalles de inversión, ni la gestión de visas y traslados familiares, que se considerarán tareas independientes.
+
+Este alcance no incluirá decisiones financieras específicas como la asignación de presupuestos o detalles de inversión, pudiendo quedar para un futuro análisis; ni la gestión de visas y traslados familiares, que se considerarán tareas independientes.
 ## Objetivos (solución propuesta)
-El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la inversión del nuevo restaurante de InnovaGastron Investments en Estados Unidos. Para lograrlo (...)
+El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la inversión del nuevo restaurante de InnovaGastron Investments en Estados Unidos. Para lograrlo se realizaran las siguientes tareas, en base al alcance propuesto:
+1. Analizar la Presencia en Redes Sociales:
+        Realizar webscraping en Twitter para identificar la presencia y percepción pública de restaurantes de comida étnica en la zona sur de Estados Unidos.
+        Cuantificar y analizar la actividad en redes sociales, centrándose en la popularidad y las tendencias locales para comprender la recepción del público.
+
+2. Evaluar Accesibilidad y Afluencia de Clientes:
+        Utilizar un dataset de estaciones de servicio para crear un mapa que visualice la ubicación de las estaciones en la zona sur de Estados Unidos.
+        Relacionar la concentración de estaciones de servicio con la accesibilidad, identificando áreas con mayor afluencia de clientes potenciales para restaurantes de comida étnica.
+
+3. Investigar Competencia y Restaurantes Establecidos:
+        Analizar datos de Google Maps y Yelp para obtener información detallada sobre la competencia y los restaurantes ya establecidos en la zona sur de Estados Unidos.
+        Aplicar análisis de sentimiento a reseñas y puntuaciones recopiladas, proporcionando una comprensión más profunda de la percepción del cliente y las fortalezas/deficiencias de los establecimientos existentes.
+### Entregables
+`Dashboard Interactivo:`
+        Crear un dashboard interactivo en PowerBI que presente de manera visual y comprensible los resultados clave del análisis. Este dashboard incluirá gráficos, mapas, métricas relevantes y KPIs específicos, proporcionando a InnovaGastron Investments una visión integral de las oportunidades de inversión en restaurantes de comida étnica en la zona sur de Estados Unidos.
+
+`API de Recomendación de ML:`
+        Desarrollar una API en Render que disponibilice un sistema de recomendación basado en aprendizaje automático (ML). Esta API permitirá a InnovaGastron Investments acceder a recomendaciones personalizadas para la inversión en restaurantes, considerando preferencias de usuario, datos de accesibilidad y afluencia, así como información de competencia y establecimientos ya existentes.
 ### Indicadores Clave de Rendimiento - KPIs
+`KPI 1`
+        `Métrica 1:`
+`KPI 2:`
+        `Métrica 2:`
+`KPI 3:`
+        `Métrica 3:`
+`KPI 4:`
+        `Métrica 4:`
 ## Metodología de trabajo
 ![Diagrama Scrum](/MetodologiaScrum.jpg)
 - Roles
+
     `Product owner:`El product owner (PO) representa a los stakeholders (interesados externos o internos) y tiene la responsabilidad de asegurar que el equipo trabaje eficientemente. Proporciona claridad y dirección.
 
     `Scrum master:`El scrum master se encarga de asegurar que el equipo siga sus reglas y prácticas. Su rol es crucial tanto para la implementación de los eventos de Scrum, como para mantener un flujo de comunicación abierto y efectivo entre el equipo y el PO. Ayuda a eliminar cualquier obstáculo que el equipo pueda encontrar durante el desarrollo del proyecto, lo que permite que el proceso fluya sin problemas. 
@@ -30,6 +56,7 @@ El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la in
     `Team:`El team, o equipo de desarrollo, está compuesto por los profesionales que realizan el trabajo de crear y entregar el producto mejorado en cada sprint. 
 
 - Eventos 
+
     `Sprint Backlog:` El backlog del sprint es una lista de elementos  seleccionados (hitos) que el equipo se compromete a completar en un sprint específico. Es una herramienta crucial para planificar y organizar el trabajo en cada sprint, y se gestiona por el equipo de desarrollo con la guía del scrum master y el product owner.
 
     `Planning:`Todos los miembros del equipo encargados de llevar a cabo el sprint se reúnen y deciden los requerimientos del mismo, diseñan la división de tareas y asignan a cada una un periodo de tiempo. Se trata de una manera de planificar más horizontal. Esto se logra gracias al panel de tareas, una herramienta visual que muestra las tareas que se asignan a cada miembro del proyecto y el estado de cada tarea (por ejemplo, pendiente, en progreso o completada). Este panel ayuda a los miembros del equipo a tener una visión clara del progreso del sprint y a identificar cuellos de botella o áreas que requieren atención adicional. También fomenta la transparencia y la comunicación dentro del equipo, al proporcionar una vista clara del trabajo en curso y quién es responsable de cada tarea.
