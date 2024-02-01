@@ -1,7 +1,9 @@
+![Nexus Portada](/Imagenes/Portada.jpg)
 ## ¡Bienvenidos a NexusAnalytics!
 Somos una firma consultora que integra a ingenieros, científicos y analistas de datos para ofrecer soluciones personalizadas a nuestros clientes. Con un equipo multidisciplinario altamente calificado, combinamos conocimientos técnicos, creatividad y análisis profundo para brindar soluciones eficientes, permitiéndonos abordar una amplia gama de proyectos con excelencia. En NexusAnalytics, transformamos datos en información valiosa para impulsar el éxito empresarial.
 ## Introducción
 La expansión de franquicias de restaurantes de comida étnica en ciudades del Sunbelt no solo representa un fenómeno de crecimiento económico, sino que también ofrece oportunidades significativas para inversores con diversos perfiles. Especialmente en lugares como Florida, la diversidad cultural, el atractivo turístico, la creciente población y la presencia de una comunidad latina vibrante convergen para potenciar el éxito de estas franquicias en un mercado en constante evolución.
+![Comida](/Imagenes/Comida.JPG)
 
 InnovaGastron Investments, una empresa inversora con raíces en América Latina, reconoce el potencial estratégico de esta expansión y se propone establecer su presencia en los Estados Unidos. Con una especialización en el sector de restaurantes en su país de origen, no solo busca oportunidades de inversión en la industria gastronómica estadounidense, sino que también tiene el objetivo de facilitar visas y traslados familiares para su equipo directivo.
 
@@ -44,7 +46,7 @@ El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la in
 `KPI 4:`
         `Métrica 4:`
 ## Metodología de trabajo
-![Diagrama Scrum](/MetodologiaScrum.jpg)
+![Diagrama Scrum](/Imagenes/SCRUM.jpg)
 - Roles
 
     `Product owner:`El product owner (PO) representa a los stakeholders (interesados externos o internos) y tiene la responsabilidad de asegurar que el equipo trabaje eficientemente. Proporciona claridad y dirección.
@@ -78,6 +80,8 @@ El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la in
    * Reducción de riesgos: scrum permite identificar y abordar los riesgos en las primeras etapas del proyecto, lo cual ayuda a prevenir males mayores en el futuro.
 ## Desarrollo
 ### Pipeline General
+![Pipeline General](/Imagenes/StackPipeline.jpg)
+
 ### Pipeline ETL
 ### Diagrama Entidad-Relación
 ## Estructura del proyecto:
