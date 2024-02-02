@@ -45,6 +45,19 @@ El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la in
         `Métrica 3:`
 `KPI 4:`
         `Métrica 4:`
+        
+**5. Tasa de Crecimiento de Franquicia**
+
+Métrica: variación de cantidad de sucursales en el último año respecto del año anterior
+
+$\left( \frac{{CantidadSucursalesÚltimoAño - CantidadSucursalesAñoAnterior}}{{CantidadSucursalesAñoAnterior}} \right) \times 100$
+
+**6. Tasa de Crecimiento de Clientes Regulares**
+
+Métrica: variación de cantidad de Check-In's en el último año respecto del año anterior en determinada 
+
+$\left( \frac{{CantidadCheckInsÚltimoAño - CantidadCheckInsAñoAnterior}}{{CantidadCheckInsAñoAnterior}} \right) \times 100$
+
 ## Metodología de trabajo
 ![Diagrama Scrum](/Imagenes/SCRUM.jpg)
 - Roles
