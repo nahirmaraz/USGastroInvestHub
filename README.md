@@ -9,10 +9,10 @@ InnovaGastron Investments, una empresa inversora con raíces en América Latina,
 
 Encomendándonos la tarea de analizar este emocionante escenario, InnovaGastron Investments busca nuestra experiencia para recopilar información clave sobre el tipo de restaurante más propicio para la inversión y determinar en qué estado de los Estados Unidos se podrían maximizar los beneficios. Nuestra misión es proporcionar análisis estratégicos que permitan al inversor tomar decisiones informadas y exitosas en este proceso de expansión internacional.
 ## Alcance
-El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando el año mas reciente, es decir el 2023. Y se basa en el análisis de tres aspectos clave: 
+El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando los años mas recientes, es decir  2022-2023. Y se basa en el análisis de tres aspectos clave: 
 
 1. Redes Sociales:
-        Analizar la presencia en redes sociales, popularidad y percepción pública a través de plataformas como Instagram y Twitter para entender las tendencias y expectativas locales.
+        Analizar la presencia en redes sociales, popularidad y percepción pública a través de plataformas populares para entender las tendencias y expectativas locales.
 2. Tráfico y Accesibilidad:
         Evaluar la accesibilidad y afluencia de clientes mediante el análisis de datos de tráfico en cada ubicación potencial.
 3. Competencia y Restaurantes Establecidos:
@@ -37,26 +37,29 @@ El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la in
 `API de Recomendación de ML:`
         Desarrollar una API en Render que disponibilice un sistema de recomendación basado en aprendizaje automático (ML). Esta API permitirá a InnovaGastron Investments acceder a recomendaciones personalizadas para la inversión en restaurantes, considerando preferencias de usuario, datos de accesibilidad y afluencia, así como información de competencia y establecimientos ya existentes.
 ### Indicadores Clave de Rendimiento - KPIs
-`KPI 1`
-        `Métrica 1:`
-`KPI 2:`
-        `Métrica 2:`
-`KPI 3:`
-        `Métrica 3:`
-`KPI 4:`
-        `Métrica 4:`
-        
-**5. Tasa de Crecimiento de Franquicia**
+`KPI 1:` Índice de Popularidad en Redes Sociales (IPS)
+* Métrica: Número total de menciones y interacciones en Twitter relacionadas con restaurantes de comida étnica en la zona sur de Estados Unidos.
+* Fórmula: $\left( \frac{{N° Total De Menciones + N° De Interacciones}}{{Total De Restaurantes Analizados}} \right) \times 100$
 
-Métrica: variación de cantidad de sucursales en el último año respecto del año anterior
+`KPI 2:` Tendencia de Hashtags Locales
+* Métrica: Frecuencia y popularidad de hashtags locales relacionados con comida étnica.
+* Fórmula: No aplicable directamente. Se mide la variación de hashtag a travéz del tiempo por medio de un gráfico.
 
-$\left( \frac{{CantidadSucursalesÚltimoAño - CantidadSucursalesAñoAnterior}}{{CantidadSucursalesAñoAnterior}} \right) \times 100$
+`KPI 3:`Índice de Satisfacción del Cliente (ISC)
+* Métrica: Puntuaciones y reseñas de Google Maps y Yelp.
+* Fórmula: $\left( \frac{{Puntuación Promedio*N° De Reseñas}}{{Total De Reastaurantes Analizados}} \right) \times 100$
 
-**6. Tasa de Crecimiento de Clientes Regulares**
+`KPI 4:`Proporción de Reseñas Positivas y Negativas
+* Métrica: Análisis de sentimiento para clasificar las reseñas como positivas o negativas.
+* Fórmula: $\left( \frac{{N° Reseñas Positivas}}{{Total De Reseñas Realizadas}} \right) \times 100$
 
-Métrica: variación de cantidad de Check-In's en el último año respecto del año anterior en determinada 
+`KPI 5:` Tasa de Crecimiento de Franquicia
+* Métrica: variación de cantidad de sucursales en el último año respecto del año anterior
+* Fórmula: $\left( \frac{{CantidadSucursalesÚltimoAño - CantidadSucursalesAñoAnterior}}{{CantidadSucursalesAñoAnterior}} \right) \times 100$
 
-$\left( \frac{{CantidadCheckInsÚltimoAño - CantidadCheckInsAñoAnterior}}{{CantidadCheckInsAñoAnterior}} \right) \times 100$
+`KPI 6:` Tasa de Crecimiento de Clientes Regulares
+* Métrica: variación de cantidad de Check-In's en el último año respecto del año anterior en determinada 
+* Fórmula: $\left( \frac{{CantidadCheckInsÚltimoAño - CantidadCheckInsAñoAnterior}}{{CantidadCheckInsAñoAnterior}} \right) \times 100$
 
 ## Metodología de trabajo
 ![Diagrama Scrum](/Imagenes/SCRUM.jpg)
@@ -92,6 +95,13 @@ $\left( \frac{{CantidadCheckInsÚltimoAño - CantidadCheckInsAñoAnterior}}{{Can
    * Innovación: al trabajar en ciclos cortos y recibir feedback constante, los equipos tienen la oportunidad de innovar y mejorar el producto de forma continua.
    * Reducción de riesgos: scrum permite identificar y abordar los riesgos en las primeras etapas del proyecto, lo cual ayuda a prevenir males mayores en el futuro.
 ## Desarrollo
+A continuación se muestran los diagramas de Gantt hechos para el desarrollo de las tareas, asi también como los roles y responsables del mismo, divididos por sprints.
+* Sprint 1
+![Hitos del primer Sprint](/Imagenes/Sprint1.png)
+* Srint 2
+![Hitos del segundo Sprint](/Imagenes/Sprint2.png)
+* Sprint 3
+![Hitos del tercer Sprint](/Imagenes/Sprint3.png)
 ### Pipeline General
 ![Pipeline General](/Imagenes/StackPipeline.jpg)
 
