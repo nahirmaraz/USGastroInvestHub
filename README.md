@@ -106,7 +106,9 @@ A continuación se muestran los diagramas de Gantt hechos para el desarrollo de 
 ![Pipeline General](/Imagenes/StackPipeline.jpg)
 
 ### Pipeline ETL
+![Pipeline ETL](/Imagenes/PipelineProcesoETL.jpg)
 ### Diagrama Entidad-Relación
+![Pipeline ETL](/Imagenes/DiagramaER.jpg)
 ## Estructura del proyecto:
 -[Nombre](link): descripción
 ## Resultados:
