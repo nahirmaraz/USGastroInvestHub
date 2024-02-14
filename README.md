@@ -7,9 +7,9 @@ La expansión de franquicias de restaurantes de comida étnica en ciudades del S
 
 InnovaGastron Investments, una empresa inversora con raíces en América Latina, reconoce el potencial estratégico de esta expansión y se propone establecer su presencia en los Estados Unidos. Con una especialización en el sector de restaurantes en su país de origen, no solo busca oportunidades de inversión en la industria gastronómica estadounidense, sino que también tiene el objetivo de facilitar visas y traslados familiares para su equipo directivo.
 
-Encomendándonos la tarea de analizar este emocionante escenario, InnovaGastron Investments busca nuestra experiencia para recopilar información clave sobre el tipo de restaurante más propicio para la inversión y determinar en qué estado de los Estados Unidos se podrían maximizar los beneficios. Nuestra misión es proporcionar análisis estratégicos que permitan al inversor tomar decisiones informadas y exitosas en este proceso de expansión internacional.
+Encomendándonos la tarea de analizar este emocionante escenario, InnovaGastron Investments busca nuestra experiencia para recopilar información clave sobre el tipo de restaurante más propicio para la inversión y determinar en qué ciudad de Florida, Estados Unidos se podrían maximizar los beneficios. Nuestra misión es proporcionar análisis estratégicos que permitan al inversor tomar decisiones informadas y exitosas en este proceso de expansión internacional.
 ## Alcance
-El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando los años mas recientes, es decir  2022-2023. Y se basa en el análisis de tres aspectos clave: 
+El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando los años mas recientes, es decir  2021-2023. Y se basa en el análisis de tres aspectos clave: 
 
 1. Redes Sociales:
         Analizar la presencia en redes sociales, popularidad y percepción pública a través de plataformas populares para entender las tendencias y expectativas locales.
@@ -117,4 +117,10 @@ A continuación se muestran los diagramas de Gantt hechos para el desarrollo de 
 ## Bibliografía:
 -[Nombre](link): descripción
 ## Tecnologías
-## Autores (fotos con link a nuestros linkedIn)
+## Autores
+![Autores](/Imagenes/caras.jpg)
+
+[Alvaro Alvarez Cardenas](https://www.linkedin.com/in/alvaro-javier-alvarez-cardenas-81696056/)       [Gabriel Chumbes](https://www.linkedin.com/in/gabriel-chumbes-rueda-b30967a2/)  [Erwin Alain Tayro](https://www.linkedin.com/in/alain-tayro/)  [Facundo Graziola](https://www.linkedin.com/in/facundo-graziola/)   [Marlen Nahir Maraz](https://www.linkedin.com/in/marlen-nahir-maraz-581657168/) 
+
+
+
