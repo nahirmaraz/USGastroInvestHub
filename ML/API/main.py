@@ -18,7 +18,7 @@ async def index():
                 body {
                     font-family: Arial, sans-serif;
                     padding: 20px;
-                    background-image: url('Img/Fondo.jpg');
+                    background-image: url('../Img/Fondo.jpg');
                     background-size: cover;
                     background-position: center;
                     background-repeat: no-repeat;
