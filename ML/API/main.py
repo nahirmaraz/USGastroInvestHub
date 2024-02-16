@@ -43,7 +43,7 @@ async def index():
 # ML endpoints:
 
 @app.get("/Recomendación_de_ciudades/{top_n}")
-async def find_top_pop_venue_ratios(top_n : int):
+async def read_Recomendación_de_ciudades(top_n : int):
     try:
         result = find_top_pop_venue_ratios(top_n)
         return result
@@ -52,7 +52,7 @@ async def find_top_pop_venue_ratios(top_n : int):
     
 
 @app.get("/Recomendación_de_categorias/{city_name}/{top_n}")
-async def find_least_represented_restaurant_types_by_city(city_name:str, top_n:int):
+async def read_Recomendación_de_categorias(city_name:str, top_n:int):
     try:
         result = find_least_represented_restaurant_types_by_city(city_name, top_n)
         return result
