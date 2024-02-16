@@ -18,7 +18,7 @@ async def index():
                 body {
                     font-family: Arial, sans-serif;
                     padding: 20px;
-                    background-image: url('../Img/Fondo.jpg');
+                    background-image: url('/Img/Fondo.jpg');
                     background-size: cover;
                     background-position: center;
                     background-repeat: no-repeat;
@@ -54,8 +54,12 @@ async def index():
                     margin-left: auto;
                 }
 
-                .my-form input[type="text"],
-                .my-form input[type="number"],
+                .my-form input[type="text"]{
+                    width: 120px;
+                },
+                .my-form input[type="number"]{
+                    width: 30px;
+                },
                 .my-form input[type="submit"] {
                     margin-left: auto;
                 }
