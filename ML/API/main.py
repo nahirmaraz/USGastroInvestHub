@@ -13,11 +13,15 @@ async def index():
     <!DOCTYPE html>
     <html>
         <head>
-            <title>Steam Query API</title>
+            <title>NEXUSANALYTICS</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
                     padding: 20px;
+                    background-image: url('Imagenes/Fondo.jpg');
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
                 }
                 h1 {
                     color: #333;
@@ -32,12 +36,13 @@ async def index():
             </style>
         </head>
         <body>
-            <h1>Steam Platform Game Query API</h1>
-            <p>This tool that can be used by game developers to improve their games, by game publishers to track their sales, and by gamers to find new games to play.<p>
+            <h1>NexusAnalytics Recomendation Systems</h1>
+            <p>Esta herramienta puede ser utilizada por inversores gastronómicos para encontrar las mejores oportunidades donde expandir sus franquicias o proponer nuevas.<p>
         </body>
     </html>
     """
     return HTMLResponse(content=template)
+
 
 # ML endpoints:
 
