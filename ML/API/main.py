@@ -56,10 +56,10 @@ async def index():
 
                 .my-form input[type="text"]{
                     width: 120px;
-                },
+                }
                 .my-form input[type="number"]{
                     width: 30px;
-                },
+                }
                 .my-form input[type="submit"] {
                     margin-left: auto;
                 }
