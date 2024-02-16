@@ -125,9 +125,10 @@ En la imagen se ve la variación de clientes potenciales segun Google Mpas. Los 
 ![SentimentAnalysis_GM](/Imagenes/SentimentAnalysis_GM.png) El gráfico muestra la proporcion de reseñas negativas (80%), neutrales (%8), positivas (%9) y muy positivas (%3) según la plataforma de Google Maps.
 ![FrecuenciaHastags](/Imagenes/FrecuenciaHashtagsLocales.png)
 En el siguiente gráfico se ve la variación del uso de los hashtags mas populares en Twitter a cerca de comida etnica en USA. Siendo genericamente los mas utilizados, 'food' y 'restaurant', siguiéndoles 'chinese', 'italian' y 'mexican'.
+[Reporte interactivo en PowerBI](https://github.com/pono33/USGastroInvestHub/blob/main/Informe_NexusAnalytics.pbix)
 
 ## Conclusiones:
-Considerando que la comida china se encuentra en el puesto número uno segun dos de nuestras fuentes, Twitter y Google Mpas, recomendamos la inversion en ese tipo de etnia, siendo la mejor franquicia 'China WOK' por la satisfacción del cliente. También se recomienda que el lugar geográfico sea por la zona costera de Miame beach o Tampa, debido que en esos klugares se visualiza mayor flujo de tráfico y accesibilidad.
+Considerando que la comida china se encuentra en el puesto número uno según dos de nuestras fuentes, Twitter y Google Mpas, recomendamos la inversion en ese tipo de etnia, siendo la mejor franquicia 'China WOK' por la satisfacción del cliente. También se recomienda que el lugar geográfico sea por la zona costera de Miame beach o Tampa, debido que en esos lugares se visualiza mayor flujo de tráfico y accesibilidad.
 
 ## Autores
 ![Autores](/Imagenes/caras.jpg)
