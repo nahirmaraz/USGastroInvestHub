@@ -19,7 +19,7 @@ Estas categorías se han elegido con el fin de considerar grupos más representa
 
 ## Subcategorías:
 
-- **European: Greek, French, German, Spanish, Catalan, Basque,Galician, Sicilian, English, Scottish, Welsh, Irish, Dutch, Swedish, Polish, Portuguese, Irish Pub.
+- **European:** Greek, French, German, Spanish, Catalan, Basque,Galician, Sicilian, English, Scottish, Welsh, Irish, Dutch, Swedish, Polish, Portuguese, Irish Pub.
 - **Italian:** Pasta.
 - **Latin:** Empanadas, Lomo, Asado, Locro, Dulce de Leche, Choripan, Argentinian, Peruvian, Ceviche, Pisco, Mexican, Tacos, Burritos, Enchiladas, Colombian, Arepas, Brazilian.
 - **Asian:** Sushi, Ramen, Pan-Asian, Korean, Kimchi, Japanese, Sashimi, Tempura, Thai, Vietnamese, Indian.
