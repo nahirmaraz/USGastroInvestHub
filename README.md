@@ -36,6 +36,8 @@ El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la in
 
 `API de Recomendación de ML:`
         Desarrollar una API en Render que disponibilice un sistema de recomendación basado en aprendizaje automático (ML). Esta API permitirá a InnovaGastron Investments acceder a recomendaciones personalizadas para la inversión en restaurantes, considerando preferencias de usuario, datos de accesibilidad y afluencia, así como información de competencia y establecimientos ya existentes.
+        
+[Nexus Recomendatios API](https://nexus-recomendations.onrender.com)
 ### Indicadores Clave de Rendimiento - KPIs
 `KPI 1:` Índice de Popularidad en Redes Sociales (IPS)
 * Métrica: Número total de menciones y interacciones en Twitter relacionadas con restaurantes de comida étnica en la zona sur de Estados Unidos.
