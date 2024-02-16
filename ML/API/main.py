@@ -18,6 +18,10 @@ async def index():
                 body {
                     font-family: Arial, sans-serif;
                     padding: 20px;
+                    background-image: url('Img/fondo.jpg');
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
                 }
                 h1 {
                     color: #333;
