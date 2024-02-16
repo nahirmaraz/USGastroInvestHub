@@ -1,0 +1,1 @@
+![Automatizaciones](/Imagenes/Automatizaciones.jpg)

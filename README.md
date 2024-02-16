@@ -127,7 +127,7 @@ En la imagen se ve la variación de clientes potenciales segun Google Mpas. Los 
 En el siguiente gráfico se ve la variación del uso de los hashtags mas populares en Twitter a cerca de comida etnica en USA. Siendo genericamente los mas utilizados, 'food' y 'restaurant', siguiéndoles 'chinese', 'italian' y 'mexican'.
 
 ## Conclusiones:
-Considerando que la comida china se encuentra en el puesto número uno segun dos de nuestras fuentes, Twitter y Google Mpas, recomendamos la inversion en ese tipo de etnia, siendo la mejor franquicia 'China WOK' por la satisfacción del cliente. También se recomienda que el lugar geográfico sea por la zona costera de Miame beach o Tampa, debido que en esos klugares se visualiza mayor flujo de tráfico y accesibilidad.
+Considerando que la comida china se encuentra en el puesto número uno segun dos de nuestras fuentes, Twitter y Google Mpas, recomendamos la inversion en ese tipo de ethnia, siendo la mejor franquicia 'China WOK' por la satisfacción del cliente. También se recomienda que el lugar geográfico sea por la zona costera de Miami Beach o Tampa, debido que en esos lugares se visualiza mayor flujo de tráfico y accesibilidad.
 
 ## Autores
 ![Autores](/Imagenes/caras.jpg)
