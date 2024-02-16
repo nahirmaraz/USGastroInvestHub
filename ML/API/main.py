@@ -13,7 +13,7 @@ async def index():
     <!DOCTYPE html>
     <html>
         <head>
-            <title>Steam Query API</title>
+            <title>NEXUSANALYTICS</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
