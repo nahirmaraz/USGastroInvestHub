@@ -12,7 +12,7 @@ Encomendándonos la tarea de analizar este emocionante escenario, InnovaGastron 
 El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando los años mas recientes, es decir  2021-2023. Y se basa en el análisis de tres aspectos clave: 
 
 1. Redes Sociales:
-        Analizar la presencia en redes sociales, popularidad y percepción pública a través de plataformas populares para entender las tendencias y expectativas locales.
+        Analizar la presencia en redes sociales, popularidad y percepción pública a través de plataformas masivas para entender las tendencias y expectativas locales.
 2. Tráfico y Accesibilidad:
         Evaluar la accesibilidad y afluencia de clientes mediante el análisis de datos de tráfico en cada ubicación potencial.
 3. Competencia y Restaurantes Establecidos:
@@ -105,13 +105,30 @@ A continuación se muestran los diagramas de Gantt hechos para el desarrollo de 
 ### Diagrama Entidad-Relación
 ![Pipeline ETL](/Imagenes/DiagramaER.jpg)
 ## Estructura del proyecto:
--[Nombre](link): descripción
+-[Estructura](https://github.com/pono33/USGastroInvestHub/tree/main/Desarollo%20del%20Proyecto): en el siguiente link se muestran, separados por Sprints, el paso a paso de las tareas realizadas para este proyecto.
 ## Resultados:
-![Nombre](.png)
+![Scursales_YELP](/Imagenes/TipoSucursales_YELP.png)
+En este gráfico se puede ver que, en base a la plataforma YELP, la comida mexicana está dentro del top 3 de comidas étnicas, siguiéndole la intaliana y la china.
+![Sucursales_GM](/Imagenes/TipoSucursales_GM.png)
+En el siguiente gráfico se observa el ranquing segun Google Mpas. Hay un cambio de posiciones, sin embargo el top 3 se mantiene igual.
+![Frecuencia_Franquicia_YELP](/Imagenes/FrecuenciaFranquicias_YELP.png)
+En la imagen se observa la frecuencia de las franquicias segun YELP. Siendo 'Taco Bell' la mas numerosa, que junto a 'Chiplote Mexican Grill' y 'QDOBA Mexican Eats' cinforman la etnia mas popular.
+![Frecuencia_Franquicias_GM](/Imagenes/FrecuenciaFranquicias_GM.png)
+En la imagen se observa que también predomina 'Taco Bell en la plataforma de Google Maps, sin embargo ahora la acompaña solo 'Chiplote Mexican Grill'. En cambio a la comida china (la mas popular) la acompañan 'China Wok', 'China KING' 'China Max' y 'China Star'.
+![CheckIn_YELP](/Imagenes/CheckIn_YELP.png)
+En la siguiente imagen se observa como varia la cantidad de reservas segun el mes del año, segun la plataforma YELP. Siendo Julio su maximo punto de Chech in, bajando drasticamente hasta Septiembre y recuperándose de nuevo en Octubre.
+![ClientesPotenciales_YELP](/Imagenes/ClientesPotenciales_YELP.png)
+El siguiente gráfico se muestra la variación de personas que hacen reviews en el transcurso del año segun YELP. Estos son clientes potenciales por haber concurrido al establecimiento al menos una vez. Existe una correlación con la cantidad de reservas, ya que los meses con mayor numero de clientes potenciales son Junio, Julio y Agosto, bajando en Septienmre.
+![ClientesPotenciales_GM](/Imagenes/ClientesPotenciales_GM.png)
+En la imagen se ve la variación de clientes potenciales segun Google Mpas. Los mejores meses son los de Abril a Mayo, bajando drásticamente hacia Septiembre.
+![SentimentAnalysis_YELP](/Imagenes/SentimentAnalysis_YELP.png) El gráfico muestra la proporcion de reseñas negativas (90%), neutrales (%7), positivas (%2) y muy positivas (%0,5) según la plataforma de YELP.
+![SentimentAnalysis_GM](/Imagenes/SentimentAnalysis_GM.png) El gráfico muestra la proporcion de reseñas negativas (80%), neutrales (%8), positivas (%9) y muy positivas (%3) según la plataforma de Google Maps.
+![FrecuenciaHastags](/Imagenes/FrecuenciaHashtagsLocales.png)
+En el siguiente gráfico se ve la variación del uso de los hashtags mas populares en Twitter a cerca de comida etnica en USA. Siendo genericamente los mas utilizados, 'food' y 'restaurant', siguiéndoles 'chinese', 'italian' y 'mexican'.
+
 ## Conclusiones:
-## Bibliografía:
--[Nombre](link): descripción
-## Tecnologías
+Considerando que la comida china se encuentra en el puesto número uno segun dos de nuestras fuentes, Twitter y Google Mpas, recomendamos la inversion en ese tipo de etnia, siendo la mejor franquicia 'China WOK' por la satisfacción del cliente. También se recomienda que el lugar geográfico sea por la zona costera de Miame beach o Tampa, debido que en esos klugares se visualiza mayor flujo de tráfico y accesibilidad.
+
 ## Autores
 ![Autores](/Imagenes/caras.jpg)
 
