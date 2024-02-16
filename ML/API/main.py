@@ -71,9 +71,9 @@ async def index():
                 </li>
                 <li>
                     <form action="/Recomendación_de_categorias" method="get" class="my-form">
-                        <label for="city_name">Recomendación_de_categorias:</label>
+                        <label for="city_name">Ciudad de Florida:</label>
                         <input type="text" id="city_name" name="city_name" required placeholder="Ciudad de Florida">
-                        <label for="top_n">Recomendación_de_categorias:</label>
+                        <label for="top_n">N de Recomendaciones:</label>
                         <input type="number" id="top_n" name="top_n" required placeholder="N de Recomendaciones">
                         <input type="submit" value="Submit">
                     </form>
