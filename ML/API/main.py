@@ -38,8 +38,8 @@ async def index():
 
                 .my-form {
                     display: flex;
-                    align-items: center;
-                    justify-content: center;
+                    align-items: left;
+                    justify-content: left;
                 }
 
                 .my-form label {
@@ -86,7 +86,7 @@ async def index():
 
 # ML Endpoints:
 
-@app.get("/Recomendación_de_ciudades")
+@app.get("/Recomendación de ciudades")
 async def read_Recomendación_de_ciudades(top_n : int):
     try:
         result = find_top_pop_venue_ratios(top_n)
@@ -95,7 +95,7 @@ async def read_Recomendación_de_ciudades(top_n : int):
         raise HTTPException(status_code=400, detail=str(e))
     
 
-@app.get("/Recomendación_de_categorias")
+@app.get("/Recomendación de categorias")
 async def read_Recomendación_de_categorias(city_name:str, top_n:int):
     try:
         result = find_least_represented_restaurant_types_by_city(city_name, top_n)
