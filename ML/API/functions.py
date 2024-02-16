@@ -63,9 +63,6 @@ def find_least_represented_restaurant_types_by_city(city_name:str, top_n:int):
     # Agregar una columna con el número de tipo de restaurante (índice)
     least_represented_df['Rank'] = range(1, top_n + 1)
 
-    # Establecer el nombre de la ciudad como índice del DataFrame
-    least_represented_df.set_index('Restaurant Type', inplace=True)
-
     # Construir y devolver diccionario
     return [{'{}'.format(i + 1): category} for i, category in enumerate(least_represented_df['Restaurant Type'])]
 
