@@ -86,7 +86,7 @@ async def index():
 
 # ML Endpoints:
 
-@app.get("/Recomendación de ciudades")
+@app.get("/Recomendación_de_ciudades")
 async def read_Recomendación_de_ciudades(top_n : int):
     try:
         result = find_top_pop_venue_ratios(top_n)
@@ -95,7 +95,7 @@ async def read_Recomendación_de_ciudades(top_n : int):
         raise HTTPException(status_code=400, detail=str(e))
     
 
-@app.get("/Recomendación de categorias")
+@app.get("/Recomendación_de_categorias")
 async def read_Recomendación_de_categorias(city_name:str, top_n:int):
     try:
         result = find_least_represented_restaurant_types_by_city(city_name, top_n)
