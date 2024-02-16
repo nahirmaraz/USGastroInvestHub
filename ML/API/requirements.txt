@@ -1,5 +1,7 @@
 pandas
 fastapi
 uvicorn
+pyarrow
+pickle
 fastparquet
 
