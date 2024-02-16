@@ -55,13 +55,6 @@ El objetivo de nuestro equipo es poder recomendar la mejor ubicación para la in
 * Métrica: Análisis de sentimiento para clasificar las reseñas como positivas o negativas.
 * Fórmula: $\left( \frac{{N° Reseñas Positivas}}{{Total De Reseñas Realizadas}} \right) \times 100$
 
-`KPI 5:` Tasa de Crecimiento de Franquicia
-* Métrica: variación de cantidad de sucursales en el último año respecto del año anterior
-* Fórmula: $\left( \frac{{CantidadSucursalesÚltimoAño - CantidadSucursalesAñoAnterior}}{{CantidadSucursalesAñoAnterior}} \right) \times 100$
-
-`KPI 6:` Tasa de Crecimiento de Clientes Regulares
-* Métrica: variación de cantidad de Check-In's en el último año respecto del año anterior en determinada 
-* Fórmula: $\left( \frac{{CantidadCheckInsÚltimoAño - CantidadCheckInsAñoAnterior}}{{CantidadCheckInsAñoAnterior}} \right) \times 100$
 
 ## Metodología de trabajo
 ![Diagrama Scrum](/Imagenes/SCRUM.jpg)
