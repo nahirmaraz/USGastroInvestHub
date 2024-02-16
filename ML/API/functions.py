@@ -26,7 +26,8 @@ def find_top_pop_venue_ratios(top_n : int):
     top_pop_venue_ratio_df.reset_index(drop=True, inplace=True)
     
     # Construir y devolver diccionario
-    return [{'{}'.format(i + 1): city} for i, city in enumerate(top_pop_venue_ratio_df['city'])]
+    return top_pop_venue_ratio_df
+#[{'{}'.format(i + 1): city} for i, city in enumerate(top_pop_venue_ratio_df['city'])]
 
 
 def find_least_represented_restaurant_types_by_city(city_name:str, top_n:int):
@@ -67,5 +68,6 @@ def find_least_represented_restaurant_types_by_city(city_name:str, top_n:int):
     least_represented_df.set_index('Restaurant Type', inplace=True)
 
     # Construir y devolver diccionario
-    return [{'{}'.format(i + 1): category} for i, category in enumerate(least_represented_df['Restaurant Type'])]
+    return least_represented_df
+#[{'{}'.format(i + 1): category} for i, category in enumerate(least_represented_df['Restaurant Type'])]
 
