@@ -120,7 +120,7 @@ A continuación se muestran los diagramas de Gantt hechos para el desarrollo de 
 ## Autores
 ![Autores](/Imagenes/caras.jpg)
 
-|  [Alvaro Alvarez Cardenas](https://www.linkedin.com/in/alvaro-javier-alvarez-cardenas-81696056/)  |  [Gabriel Chumbes](https://www.linkedin.com/in/gabriel-chumbes-rueda-b30967a2/)  |  [Erwin Alain Tayro](https://www.linkedin.com/in/alain-tayro/)  |  [Facundo Graziola](https://www.linkedin.com/in/facundo-graziola/)  |  [Marlen Nahir Maraz](https://www.linkedin.com/in/marlen-nahir-maraz-581657168/)  | 
+|  [Alvaro Alvarez Cardenas](https://www.linkedin.com/in/alvaro-javier-alvarez-cardenas-81696056/) - | - [Gabriel Chumbes](https://www.linkedin.com/in/gabriel-chumbes-rueda-b30967a2/) - | - [Erwin Alain Tayro](https://www.linkedin.com/in/alain-tayro/) - | - [Facundo Graziola](https://www.linkedin.com/in/facundo-graziola/) - | - [Marlen Nahir Maraz](https://www.linkedin.com/in/marlen-nahir-maraz-581657168/)  | 
 |--|--|--|--|--|
 
 
