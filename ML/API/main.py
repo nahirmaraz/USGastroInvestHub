@@ -56,7 +56,7 @@ async def index():
                     width: 25px;
                 }
                 .my-form input[type="submit"] {
-                    margin-left: auto;
+                    margin-left: 5px;
                 }
 
             </style>
@@ -67,14 +67,14 @@ async def index():
             <ul>
                 <li>
                     <form action="/Recomendación_de_ciudades" method="get" class="my-form">
-                        <label for="top_n">Recomendación_de_ciudades:</label>
+                        <label for="top_n">Recomendación_de_ciudades: </label>
                         <input type="number" id="top_n" name="top_n" required placeholder="5">
                         <input type="submit" value="Submit">
                     </form>
                 </li>
                 <li>
                     <form action="/Recomendación_de_categorias" method="get" class="my-form">
-                        <label for="city_name">Recomendación_de_categorias:</label>
+                        <label for="city_name">Recomendación_de_categorias: </label>
                         <input type="text" id="city_name" name="city_name" required placeholder="Ciudad de Florida">
                         <input type="number" id="top_n" name="top_n" required placeholder="5">
                         <input type="submit" value="Submit">
