@@ -9,7 +9,7 @@ InnovaGastron Investments, una empresa inversora con raíces en América Latina,
 
 Encomendándonos la tarea de analizar este emocionante escenario, InnovaGastron Investments busca nuestra experiencia para recopilar información clave sobre el tipo de restaurante más propicio para la inversión y determinar en qué ciudad de Florida, Estados Unidos se podrían maximizar los beneficios. Nuestra misión es proporcionar análisis estratégicos que permitan al inversor tomar decisiones informadas y exitosas en este proceso de expansión internacional.
 ## Alcance
-El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando el año 2021. Se basa en el análisis de tres aspectos clave: 
+El estudio de esta problemática se centra en la zona sur de Estados Unidos (Sunbelt) considerando el año 2021, basándonos en el análisis de tres aspectos clave: 
 
 1. Redes Sociales:
         Analizar la presencia en redes sociales, popularidad y percepción pública a través de plataformas masivas para entender las tendencias y expectativas locales.
@@ -128,11 +128,9 @@ En el siguiente gráfico se ve la variación del uso de los hashtags mas popular
 [Reporte interactivo en PowerBI](https://github.com/pono33/USGastroInvestHub/blob/main/Informe_NexusAnalytics.pbix)
 
 ## Conclusiones:
-<<<<<<< HEAD
-Considerando que la comida china se encuentra en el puesto número uno según dos de nuestras fuentes, Twitter y Google Mpas, recomendamos la inversion en ese tipo de etnia, siendo la mejor franquicia 'China WOK' por la satisfacción del cliente. También se recomienda que el lugar geográfico sea por la zona costera de Miame beach o Tampa, debido que en esos lugares se visualiza mayor flujo de tráfico y accesibilidad.
-=======
+
 Considerando que la comida china se encuentra en el puesto número uno segun dos de nuestras fuentes, Twitter y Google Mpas, recomendamos la inversion en ese tipo de etnia, siendo la mejor franquicia 'China WOK' por la satisfacción del cliente. También se recomienda que el lugar geográfico sea por la zona costera de Miami Beach o Tampa, debido que en esos lugares se visualiza mayor flujo de tráfico y accesibilidad.
->>>>>>> 0a1a3b563c8c24dcdea822605c368f2512c29463
+
 
 ## Autores
 ![Autores](/Imagenes/caras.jpg)
